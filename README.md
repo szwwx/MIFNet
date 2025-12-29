@@ -1,10 +1,10 @@
-# Multi-scale Dilated Network (MDNet)
+# Masked Image Pre-training Network based on Frequency Domain Representation (MIFNet)
 <div align=center>
-<img src="https://github.com/szwwx/MDNet/blob/main/Performance.png" width="35%">
+<img src="https://github.com/szwwx/MIFNet/blob/main/results.png" width="35%">
 </div>
 Air quality monitoring is of utmost importance for safeguarding both the environment and human health. 
 
-We presents a novel approach to obtaining the Air Quality Index (AQI) using sky images through the Multi-scale Dilated Network (MDNet), which leads to a reduction of 86.7\% of parameters and 88.5\% of Floating Point Operations (FLOPs) compared to Double Output Vision Transformer (DOViT) and achieves a top-1 classification accuracy of 94.2\% on Get AQI in One Shot-2 (GAOs-2). The code is coming soon.
+We introduce a self-supervised learning approach for air quality classification and propose a Masked Image Pre-training Network based on Frequency Domain Representation (MIFNet). We first collect a large number of unlabeled environmental images as training data, significantly enlarging the dataset while eliminating the need for manual annotation, thus reducing labor costs. The code is coming soon.
 
 <div align=center>
 <img src="https://github.com/szwwx/Multi-scale-Dilated-Network-MDNet-/blob/main/MDNet%20Structure.png" width="80%">

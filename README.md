@@ -4,7 +4,7 @@
 </div>
 Air quality monitoring is of utmost importance for safeguarding both the environment and human health. 
 
-We introduce a self-supervised learning approach for air quality classification and propose a Masked Image Pre-training Network based on Frequency Domain Representation (MIFNet). We first collect a large number of unlabeled environmental images as training data, significantly enlarging the dataset while eliminating the need for manual annotation, thus reducing labor costs. The code is coming soon.
+We introduce a self-supervised learning approach for air quality classification and propose a Masked Image Pre-training Network based on Frequency Domain Representation (MIFNet). We first collect a large number of unlabeled environmental images as training data, significantly enlarging the dataset while eliminating the need for manual annotation, thus reducing labor costs. The code and data are coming soon.
 
 <div align=center>
 <img src="https://github.com/szwwx/MIFNet/blob/main/struc.png" width="80%">
